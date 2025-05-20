@@ -39,6 +39,8 @@ Superstore_Dashboard.xlsx	Excel file containing the full dashboard
 Raw_Data.csv	Original dataset before cleaning
 README.md	Project documentation
 Dashboard.png	Screenshot of the dashboard
+
+
 📊 Conclusion
 The analysis of Walmart's 2022 sales data reveals key trends and performance drivers across gender, channels, geography, age groups, product categories, and time.
 
